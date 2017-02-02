@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ArgoCucumberJVM" />
+        <module name="CucumberJVM" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ArgoCucumberJVM" target="1.5" />
+      <module name="CucumberJVM" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
