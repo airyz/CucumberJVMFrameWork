@@ -31,9 +31,6 @@ Feature: test
       | firstName | lastName | email             | password |
       | Sukesh    | Kumar    | validemail@aq.com | password |
       | Eraclis   | test     | sdfsdf            | sdfsdf   |
-      | Eraclis   | test     | sdfsdf            | sdfsdf   |
-      | Eraclis   | test     | sdfsdf            | sdfsdf   |
-      | Eraclis   | test     | sdfsdf            | sdfsdf   |
 
   Scenario: Sign-up a new user with datatable example
     And she provides the her details as follows:
