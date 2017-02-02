@@ -1,0 +1,5 @@
+
+†"squid:ClassVariableVisibilityCheck"TMake lastName a static final constant or non-public and provide accessors if needed.(¿ü8Ş«‡óŸ+
+‰"squid:ClassVariableVisibilityCheck"QMake email a static final constant or non-public and provide accessors if needed.(¾Æ†Ëıÿÿÿÿ8Ş«‡óŸ+
+"squid:ClassVariableVisibilityCheck"UMake firstName a static final constant or non-public and provide accessors if needed.(ßæÆÑıÿÿÿÿ8Ş«‡óŸ+
+Œ"squid:ClassVariableVisibilityCheck"TMake password a static final constant or non-public and provide accessors if needed.(¼şòüÿÿÿÿ8Ş«‡óŸ+
